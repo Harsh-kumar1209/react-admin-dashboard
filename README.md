@@ -170,14 +170,7 @@ src/
 - **Modern Icons** - Lucide React icons
 - **Smooth Animations** - Tailwind transitions
 
-## 📝 License
-
-MIT License - feel free to use this project for learning or production.
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
----
-
-Built with ❤️ using React + Vite + Tailwind CSS
